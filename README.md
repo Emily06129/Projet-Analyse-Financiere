@@ -30,7 +30,7 @@ Ce projet Power BI présente une analyse visuelle et interactive des principaux 
 
 > **ENGLISH VERSION AVAILABLE BELOW**
 
-### 📊 Comparative Financial Performance – Tesla & GM (2020–2024)
+### Comparative Financial Performance – Tesla & GM (2020–2024)
 
 This Power BI dashboard compares key financial indicators of Tesla and General Motors over five years. It highlights differences in profitability, debt structure, and revenue generation.
 
